@@ -1,0 +1,52 @@
+.block_heatmap_sincecoursestart,
+.block_heatmap_updated {
+    font-size: x-small;
+}
+
+.block_heatmap_view_count {
+    text-align: left;
+    padding-left: 40px !important;
+    font-size: x-small;
+}
+
+.block_heatmap_views,
+.block_heatmap_users {
+    border-radius: 20%;
+    color: #ffffff;
+    min-width: 20px;
+    border: 1px solid #000000;
+    text-align: center;
+    display: inline-block;
+}
+
+.block_heatmap_heat_0 {
+    border-left: 7px solid #64bec8;
+}
+.block_heatmap_heat_1 {
+    bolder-left: 7px solid #a5d223;
+}
+.block_heatmap_heat_2 {
+    border-left: 7px solid #FA7D28;
+}
+.block_heatmap_heat_3 {
+    border-left: 7px solid #f0147d;
+}
+.block_heatmap_heat_4 {
+    border-left: 7px solid #484848;
+}
+
+.block_heatmap_icon_0 {
+    background-color: #4fc6e0;
+}
+.block_heatmap_icon_1 {
+    background-color: #f79548;
+}
+.block_heatmap_icon_2 {
+    background-color: #f79548;
+}
+.block_heatmap_icon_3 {
+    background-color: #f33e94;
+}
+.block_heatmap_icon_4 {
+    background-color: #484848;
+}
